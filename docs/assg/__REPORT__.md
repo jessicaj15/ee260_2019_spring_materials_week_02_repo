@@ -47,6 +47,7 @@ Convert the following octal numbers into binary and hexadecimal:
 
 The objective of this problem is to demonstrate that you understand the relation between octal, binary, and hexadecimal enough to convert numbers. 
 
+![HW1]( https://raw.githubusercontent.com/jessicaj15/ee260_2019_spring_materials_week_02_repo/master/docs/assg/HW1.jpg)
 
 ## (5 pts) Wakerly, Problem 2.5 (a)-(f)
 Convert the following numbers into decimal:
@@ -59,6 +60,8 @@ Convert the following numbers into decimal:
 
 The objective of this problem is to demonstrate your ability to convert numbers from binary, octal, and hexadecimal into decimal.  
 
+![HW2]( https://raw.githubusercontent.com/jessicaj15/ee260_2019_spring_materials_week_02_repo/master/docs/assg/HW2.jpg)
+
 ## (5 pts) Wakerly, Problem 2.7 (a)-(b)
 Add the following pairs of binary numbers, showing all carries:
 - a.  
@@ -67,6 +70,8 @@ Add the following pairs of binary numbers, showing all carries:
 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\begin{matrix}&space;&&space;101110&space;\\&space;&plus;&space;&&space;100101&space;\\&space;&&space;---&space;\end{matrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\begin{matrix}&space;&&space;101110&space;\\&space;&plus;&space;&&space;100101&space;\\&space;&&space;---&space;\end{matrix}" title="\begin{matrix} & 101110 \\ + & 100101 \\ & --- \end{matrix}" /></a>
 
 The objective of this problem is to demonstrate the knowledge of adding binary numbers, especially understanding the idea of a base of 2 for handling carries. 
+
+![HW3]( https://raw.githubusercontent.com/jessicaj15/ee260_2019_spring_materials_week_02_repo/master/docs/assg/HW3.jpg)
 
 ## (5 pts) Wakerly, Problem 2.9 (a)-(b)
 Add the following pairs of octal numbers:
@@ -77,6 +82,8 @@ Add the following pairs of octal numbers:
 
 The objective of this problem is to demonstrate the knowledge of adding octal numbers, specifically understanding the concept of a base of 8 to handle carries. 
 
+![HW4]( https://raw.githubusercontent.com/jessicaj15/ee260_2019_spring_materials_week_02_repo/master/docs/assg/HW4.jpg)
+
 ## (5 pts)
 Convert the following decimal numbers to binary numbers using the divide-by-2
 method:
@@ -84,6 +91,8 @@ method:
 - b. 30
 
 The objective of this problem is to demonstrate your ability to apply the divide-by-2 method to convert decimal numbers to binary numbers. 
+
+![HW5]( https://raw.githubusercontent.com/jessicaj15/ee260_2019_spring_materials_week_02_repo/master/docs/assg/HW5.jpg)
 
 ## (5 pts)
 Convert the decimal number 128 to the following number systems:
@@ -94,3 +103,5 @@ Convert the decimal number 128 to the following number systems:
 - e. base fifteen
 
 The objective of this problem is to show your ability to convert from decimal to another base: binary, hexadecimal, three, five, and fifteen. 
+
+![HW6]( https://raw.githubusercontent.com/jessicaj15/ee260_2019_spring_materials_week_02_repo/master/docs/assg/HW6.jpg)
